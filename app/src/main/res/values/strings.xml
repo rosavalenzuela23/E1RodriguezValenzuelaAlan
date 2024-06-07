@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E1RodriguezValenzuelaAlan</string>
+    <string name="title">Tipping &amp; Saving </string>
+    <string name="originalPrice">original price</string>
+    <string name="percentage">percentage</string>
+    <string name="total">Total</string>
+    <string name="tip">tip</string>
+    <string name="discount">discount</string>
+</resources>
